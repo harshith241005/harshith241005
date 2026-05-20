@@ -20,7 +20,7 @@ A full-stack automation platform that discovers suppliers, extracts manufacturer
 # 🛠 Tech Stack
 
 ### 💻 Languages
-Java • Python • JavaScript • SQL
+Java • Python • JavaScript
 
 ### ⚙ Frameworks & Backend
 Node.js • Express.js • FastAPI • React.js • Electron.js
@@ -35,7 +35,7 @@ MySQL • MongoDB
 NLP • Scikit-learn • LangChain • LLaMA 3 • OCR
 
 ### 🔧 Tools
-Git • GitHub • Google Colab • Puppeteer • Cheerio • Nodemailer
+Git • GitHub • Google Colab • VS Code 
 
 ---
 
