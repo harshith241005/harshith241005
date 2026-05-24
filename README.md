@@ -2,7 +2,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=harshith241005&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Harshith+Sai+👋;CS+Undergrad+%7C+AI+%26+ML+Specialist;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems+🚀;LLM+%7C+NLP+%7C+Automation+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+# Hi there, I'm Harshith Sai! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Undergrad+%7C+AI+%26+ML+Specialist;Full-Stack+Developer+%7C+Backend+Engineer;Building+Intelligent+Systems+%F0%9F%9A%80;LLM+%7C+NLP+%7C+Automation+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -61,7 +67,7 @@ I'm a **Computer Science undergraduate** specializing in **Artificial Intelligen
 ### 🤖 AI / ML
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLaMA_3-412991?style=for-the-badge&logo=meta&logoColor=white)
+![Meta](https://img.shields.io/badge/LLaMA_3-412991?style=for-the-badge&logo=meta&logoColor=white)
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,22 +93,6 @@ I'm a **Computer Science undergraduate** specializing in **Artificial Intelligen
 
 <img src="https://github-readme-stats.vercel.app/api?username=harshith241005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshith241005&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith241005&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshith241005&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
